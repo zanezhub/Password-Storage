@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/26080872/secret-key-not-set-in-flask-session-using-the-flask-session-extension
+https://flask-session.readthedocs.io/en/latest/
+https://argon2-cffi.readthedocs.io/en/stable/
+https://stackoverflow.com/questions/35359969/typeerror-tuple-indices-must-be-integers-not-str
+https://stackoverflow.com/questions/48218065/objects-created-in-a-thread-can-only-be-used-in-that-same-thread
+https://stackoverflow.com/questions/16856647/sqlite3-programmingerror-incorrect-number-of-bindings-supplied-the-current-sta
+https://stackoverflow.com/questions/16856647/sqlite3-programmingerror-incorrect-number-of-bindings-supplied-the-current-sta
